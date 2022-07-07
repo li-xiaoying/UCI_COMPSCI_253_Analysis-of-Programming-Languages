@@ -21,13 +21,3 @@ To run Nine in Shell:
 ```
 ~/CS253/Week3$ ./Nine ../pride-and-prejudice.txt
 ```
-
-### Ten
-To compile Ten.cpp in Shell:
-```
-~/CS253/Week3$ g++ Ten.cpp -o Ten
-```
-To run Ten in Shell:
-```
-~/CS253/Week3$ ./Ten ../pride-and-prejudice.txt
-```
